@@ -7,7 +7,7 @@ Focus on the interactions, not the components.
 -- Alfred Toynbee, a Study of History
 
 
-> Our lives succeed or fail gradually, then suddenly, one conversation at a time. WHile no single conversion is guaranteed to change the trajectory of a ceer, a business, a marriage, or a life, any single conversation can. The conversation is the relationship.
+> Our lives succeed or fail gradually, then suddenly, one conversation at a time. While no single conversion is guaranteed to change the trajectory of a ceer, a business, a marriage, or a life, any single conversation can. The conversation is the relationship.
 
 -- Susan Scott, Fierce Conversations
 
